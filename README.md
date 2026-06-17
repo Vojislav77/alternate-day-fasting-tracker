@@ -40,9 +40,9 @@ Option 1: Run locally
 
 bash
 
-git clone https://github.com/yourusername/adf-tracker.git
-cd adf-tracker
-open index.html
+    git clone https://github.com/yourusername/adf-tracker.git
+    cd adf-tracker
+    open index.html
 
 Option 2: Host on GitHub Pages
 

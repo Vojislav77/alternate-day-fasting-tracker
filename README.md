@@ -2,6 +2,8 @@
 
 A simple, fast, and private web application to track Alternate-Day Fasting (ADF) sessions. Log start and end times, record your weight, monitor BMI automatically, and watch your progress with interactive charts.
 
+<img width="1440" height="816" alt="adfts" src="https://github.com/user-attachments/assets/0d05adb1-281f-471e-8b5e-d2808e5c7935" />
+
 This project is a single HTML file — open it in any modern browser and start tracking immediately. All data is saved locally in your browser.
 
 ## Features

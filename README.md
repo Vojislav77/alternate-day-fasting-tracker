@@ -6,6 +6,11 @@ A simple, fast, and private web application to track Alternate-Day Fasting (ADF)
 
 This project is a single HTML file — open it in any modern browser and start tracking immediately. All data is saved locally in your browser.
 
+
+<img width="1408" height="911" alt="adft1" src="https://github.com/user-attachments/assets/1b9fd840-5cfe-4446-9fad-3387a38ad556" />
+<img width="1409" height="826" alt="adft2" src="https://github.com/user-attachments/assets/71f4206f-3e5b-41a9-82dc-d5653fd44556" />
+
+
 ## Features
 
     Progress Overview: Live cards for Start Weight, Target Weight, Current Weight, and percentage progress toward goal
